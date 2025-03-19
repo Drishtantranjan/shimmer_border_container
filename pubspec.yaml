@@ -1,0 +1,20 @@
+name: shimmer_border_container
+description: A customizable shimmer border container for Flutter with resizable components and customizable content.
+version: 1.0.0
+author: Drishtant Ranjan <rdrishtant54@gmail.com>
+homepage: https://github.com/yourusername/shimmer_border_container
+repository: https://github.com/yourusername/shimmer_border_container
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
