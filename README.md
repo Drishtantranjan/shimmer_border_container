@@ -2,6 +2,10 @@
 
 A customizable shimmer border container for Flutter with animated gradient borders and resizable components. Perfect for creating elegant glowing buttons or highlight containers.
 
+## 📽 Demo
+
+![Shimmer Border Demo](https://raw.githubusercontent.com/your-username/shimmer_border_container/main/assets/demo.gif)
+
 ## Features
 
 - Animated shimmer border effect
@@ -95,5 +99,3 @@ class MyApp extends StatelessWidget {
 MIT license.
 
 ---
-
-Let me know if you’d like me to scaffold the full Dart library file too!
