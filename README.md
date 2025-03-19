@@ -96,6 +96,7 @@ class MyApp extends StatelessWidget {
 
 ## License
 
-MIT license.
+BSD 3-Clause License.  
+See the [LICENSE](https://github.com/Drishtantranjan/shimmer_border_container/blob/main/LICENSE) file for details.
 
 ---
