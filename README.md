@@ -4,7 +4,7 @@ A customizable shimmer border container for Flutter with animated gradient borde
 
 ## 📽 Demo
 
-![Shimmer Border Demo](https://raw.githubusercontent.com/your-username/shimmer_border_container/main/assets/demo.gif)
+![Screen Recording 2025-03-19 at 12 54 37 AM](https://github.com/user-attachments/assets/4caaae6e-9728-4c66-89fa-6958dcee1c45)
 
 ## Features
 
